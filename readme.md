@@ -91,6 +91,8 @@ Guiding Question:
 6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
 7. File Structure to follow below.
 
+
+
 ```
 WD-ProjectName
 └─ assets
